@@ -4,7 +4,7 @@ Hi 👋 I'm Ömür Bilgin
 Full-stack Developer
 --------------------  
 
-  For the past four years, I've been deeply involved in game development with Unity, gaining a strong background in C#, the .NET framework, and understanding game mechanics, design patterns, and architectures. Recently, I've shifted my focus to web development to expand my skill set. Currently, I'm working on both frontend and backend web applications using JavaScript and React. I'm passionate about this new path and am dedicated to continually learning and improving in web development.
+  For the past four years, I've been deeply involved in game development with Unity, gaining a strong background in C# and understanding game mechanics, design patterns, architectures etc. Recently, I've shifted my focus to web development to expand my skill set. Currently, I'm working on both frontend and backend web applications using JavaScript and React. I'm passionate about this new path and am dedicated to continually learning and improving in web development.
 
   * 🚀  I'm currently working as Full-Stack React Developer
   * 🌍  I'm based in Istanbul, Turkey
