@@ -24,4 +24,4 @@ Full-stack Developer
  
 ### My GitHub Stats
 
-<a href="http://www.github.com/trojenM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trojenM&stroke=ffffff&background=581c87&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/omurbilgin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omurbilgin&stroke=ffffff&background=581c87&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
